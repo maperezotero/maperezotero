@@ -44,6 +44,22 @@ I started making my first websites with HTML as a hobby in 1997 and since then I
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </p>
 
+<h3 align="left">Main Projects:</h3>
+ <div>
+  <h4>PF Henry Travel</h4>
+  <div>
+  <p><a href="https://proyecto-final-henry.vercel.app/" target="_blank">https://proyecto-final-henry.vercel.app/</a></p>
+   <img src="https://demos.maperez.es/pfhenry/henry-travel-01.jpg"/>
+  </div>
+  <div>
+   <p>Texto de prueba</p>
+  </div>
+ </div>
+ <div>
+  <h4>PI Henry Videogames</h4>
+ </div>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maperezotero&show_icons=true&locale=en&layout=compact" alt="maperezotero" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maperezotero&show_icons=true&locale=en" alt="maperezotero" /></p>
