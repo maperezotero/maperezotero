@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Ángel Pérez Otero</h1>
 <h3 align="center">A passionate full stack developer from Córdoba, Spain</h3>
 
-<h3>About me:<h3>
+<h3>About me:</h3>
  <p>
  Ever since I discovered the Internet back in the second half of the 90's I was fascinated by what this technology offered. Since then and due to my innate curiosity about how things work, I have been interested in web development.
 I started making my first websites with HTML as a hobby in 1997 and since then I haven't stopped learning and discovering new technologies and tools. In 2005 I decided to turn my passion into my profession and opened a computer store in my city. In 2010 I began studying the Higher Degree in Computer Systems Administration which opened up a new world of possibilities for me and fueled my interest in "new technologies" even more.
